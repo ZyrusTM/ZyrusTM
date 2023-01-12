@@ -12,6 +12,6 @@
 <img align="left" alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ZyrusTM&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-<img width="500px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ZyrusTM&layout=compact&langs_count=7&theme=dracula"/>
+<img width="500px" height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ZyrusTM&layout=compact&langs_count=7&theme=dracula"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ZyrusTM&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
