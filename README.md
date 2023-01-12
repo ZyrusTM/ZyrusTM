@@ -12,6 +12,6 @@
 <img align="left" alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
 
-![Github stats]([https://github-readme-stats.vercel.app/api?username=ZyrusTM&count_private=true&show_icons=true&theme=radical](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ZyrusTM&count_private=true&show_icons=true&theme=radical))
+![Github stats]([https://github-readme-stats.vercel.app/api?username=ZyrusTM&count_private=true&show_icons=true&theme=radical])
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZYRUSTM&show_icons=true&theme=radical)
